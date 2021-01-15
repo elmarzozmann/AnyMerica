@@ -1,0 +1,43 @@
+carrier_1,region_1,region_2,region_1,region_2,parameter_1,value_1,parameter_2,value_2,parameter_3,value_3,parameter_4,value_4,comment,length_km
+electricity,US,US_Central,US,MidWest,capaExcResi,20.50437947,costExpExc,1907.73,lifeExc,60,lossExc,0.03525,ReEDS,705
+electricity,US,California,US,NorthWest,capaExcResi,11.75262153,costExpExc,2381.28,lifeExc,60,lossExc,0.044,ReEDS,880
+electricity,US,MidWest,US,MidAtlantic,capaExcResi,10.19828304,costExpExc,2505.756,lifeExc,60,lossExc,0.0463,ReEDS,926
+electricity,US,Tennessee,US,MidAtlantic,capaExcResi,8.475450436,costExpExc,2340.69,lifeExc,60,lossExc,0.04325,ReEDS,865
+electricity,US,MidWest,US,Tennessee,capaExcResi,8.43194372,costExpExc,2267.628,lifeExc,60,lossExc,0.0419,ReEDS,838
+electricity,Mexico,MEX_Central,Mexico,Oriental,capaExcResi,7.35,costExpExc,1118.562,lifeExc,60,lossExc,0.02,SENER,398
+electricity,US,SouthEast,US,Tennessee,capaExcResi,7.000000001,costExpExc,887.568,lifeExc,60,lossExc,0.0164,ReEDS,328
+electricity,US,Florida,US,SouthEast,capaExcResi,5.945162179,costExpExc,1380.06,lifeExc,60,lossExc,0.0255,ReEDS,510
+electricity,US,SouthWest,US,Texas,capaExcResi,5.90268,costExpExc,2527.404,lifeExc,60,lossExc,0.0467,ReEDS,934
+electricity,US,MidWest,US,Texas,capaExcResi,5.742273532,costExpExc,3596.274,lifeExc,60,lossExc,0.06645,ReEDS,1329
+electricity,US,NorthWest,US,SouthWest,capaExcResi,5.578356139,costExpExc,2879.184,lifeExc,60,lossExc,0.0532,ReEDS,1064
+electricity,US,NorthWest,Canada,West,capaExcResi,5.515101351,costExpExc,3877.698,lifeExc,60,lossExc,0.07165,US D.O.E,1433
+electricity,US,Carolinas,US,MidAtlantic,capaExcResi,5.251887142,costExpExc,1277.232,lifeExc,60,lossExc,0.0236,ReEDS,472
+electricity,US,MidWest,Canada,CA_Central,capaExcResi,4.755700676,costExpExc,3723.456,lifeExc,60,lossExc,0.0688,US D.O.E,1376
+electricity,Mexico,NorEste,Mexico,Occidental,capaExcResi,4.51,costExpExc,1541.5221,lifeExc,60,lossExc,0.027,SENER,548
+electricity,US,Texas,US,US_Central,capaExcResi,4.433302052,costExpExc,3174.138,lifeExc,60,lossExc,0.05865,ReEDS,1173
+electricity,US,NewYork,Canada,East,capaExcResi,4.186,costExpExc,3414.972,lifeExc,60,lossExc,0.0631,US D.O.E,1262
+electricity,US,NewEngland,Canada,East,capaExcResi,3.766860811,costExpExc,2792.592,lifeExc,60,lossExc,0.0516,US D.O.E,1032
+electricity,US,NorthWest,US,US_Central,capaExcResi,3.6145499,costExpExc,3017.19,lifeExc,60,lossExc,0.05575,ReEDS,1115
+electricity,US,Tennessee,US,Carolinas,capaExcResi,3.6,costExpExc,2018.676,lifeExc,60,lossExc,0.0373,ReEDS,746
+electricity,US,SouthEast,US,Carolinas,capaExcResi,3.242,costExpExc,1434.18,lifeExc,60,lossExc,0.0265,ReEDS,530
+electricity,US,NewYork,Canada,CA_Central,capaExcResi,3.2018,costExpExc,5106.222,lifeExc,60,lossExc,0.09435,US D.O.E,1887
+electricity,US,California,US,SouthWest,capaExcResi,2.950407438,costExpExc,2806.122,lifeExc,60,lossExc,0.05185,ReEDS,1037
+electricity,Mexico,MEX_Central,Mexico,Occidental,capaExcResi,2.95,costExpExc,1017.0747,lifeExc,60,lossExc,0.018,SENER,362
+electricity,US,California,Mexico,BajaCalifornia,capaExcResi,2.3835,costExpExc,2340.69,lifeExc,60,lossExc,0.04325,US D.O.E,865
+electricity,US,NewYork,US,NewEngland,capaExcResi,2.034,costExpExc,1139.226,lifeExc,60,lossExc,0.02105,ReEDS,421
+electricity,US,MidAtlantic,US,NewYork,capaExcResi,1.999999999,costExpExc,1607.364,lifeExc,60,lossExc,0.0297,ReEDS,594
+electricity,Mexico,NorEste,Mexico,Oriental,capaExcResi,1.6,costExpExc,2922.0126,lifeExc,60,lossExc,0.052,SENER,1039
+electricity,Mexico,NorOeste,Mexico,Occidental,capaExcResi,1.38,costExpExc,3154.1628,lifeExc,60,lossExc,0.056,SENER,1122
+electricity,Mexico,Oriental,Mexico,Peninsular,capaExcResi,1.2,costExpExc,2150.6796,lifeExc,60,lossExc,0.038,SENER,765
+electricity,US,Texas,Mexico,NorEste,capaExcResi,1.19175,costExpExc,1658.778,lifeExc,60,lossExc,0.03065,US D.O.E,613
+electricity,US,US_Central,Canada,CA_Central,capaExcResi,1.19175,costExpExc,3477.21,lifeExc,60,lossExc,0.06425,US D.O.E,1285
+electricity,Mexico,Norte,Mexico,NorEste,capaExcResi,1,costExpExc,1529.2221,lifeExc,60,lossExc,0.027,SENER,544
+electricity,Mexico,NorOeste,Mexico,Norte,capaExcResi,1,costExpExc,1187.3805,lifeExc,60,lossExc,0.021,SENER,422
+electricity,Mexico,Norte,Mexico,Occidental,capaExcResi,0.3,costExpExc,2181.0114,lifeExc,60,lossExc,0.039,SENER,776
+electricity,Canada,CA_Central,Canada,East,capaExcResi,0,costExpExc,4900.3692,lifeExc,60,lossExc,0.087,Assumption,1743
+electricity,Canada,West,Canada,CA_Central,capaExcResi,0,costExpExc,4572.3774,lifeExc,60,lossExc,0.081,Assumption,1626
+electricity,Mexico,BajaCalifornia,Mexico,BajaCaliforniaSur,capaExcResi,0,costExpExc,1669.3314,lifeExc,60,lossExc,0.03,SENER,594
+electricity,Mexico,NorOeste,Mexico,BajaCalifornia,capaExcResi,0,costExpExc,1487.931,lifeExc,60,lossExc,0.026,SENER,529
+electricity,Mexico,Norte,US,Texas,capaExcResi,0,costExpExc,2097.15,lifeExc,60,lossExc,0.03875,US D.O.E,775
+electricity,Mexico,Norte,US,SouthWest,capaExcResi,0,costExpExc,2164.8,lifeExc,60,lossExc,0.04,US D.O.E,800
+electricity,Mexico,NorOeste,US,SouthWest,capaExcResi,0,costExpExc,1739.958,lifeExc,60,lossExc,0.03215,US D.O.E,643

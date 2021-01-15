@@ -1,0 +1,12 @@
+timestep_1,technology_1,parameter,value,comment
+2050,biomassPlant,effConv,0.4,Aghahosseini
+,biomassPlant,avaConv,0.98,100p
+,electrolysis,avaConv,1,100p
+,electrolysis,effConv,0.785,100p
+,methanation,avaConv,0.98,100p
+,methanation,costVarGen,0.283,100p
+,methanation,effConv,0.86,100p
+,gasPlant,effConv,0.66,100p
+,gasPlant,avaConv,0.98,
+,ccgtHydrogen,avaConv,0.98,100p
+,ccgtHydrogen,effConv,0.63,100p

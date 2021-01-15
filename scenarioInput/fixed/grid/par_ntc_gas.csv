@@ -1,0 +1,14 @@
+carrier_1,region_1,region_2,region_1,region_2,parameter_1,value_1,parameter_2,value_2,comment
+gas,Canada,CA_Central,US,MidWest,capaExcResiDir,10.6754511682,expExcFix,0,US D.O.E
+gas,Canada,CA_Central,US,NewYork,capaExcResiDir,9.079088941125,expExcFix,0,US D.O.E
+gas,Canada,CA_Central,US,NorthWest,capaExcResiDir,8.399484622725,expExcFix,0,US D.O.E
+gas,Canada,CA_Central,US,US_Central,capaExcResiDir,6.799582789825,expExcFix,0,US D.O.E
+gas,US,California,Mexico,BajaCalifornia,capaExcResiDir,2.9201748056250003,expExcFix,0,US D.O.E
+gas,Canada,East,US,NewEngland,capaExcResiDir,3.9218832540999995,expExcFix,0,US D.O.E
+gas,US,MidWest,Canada,CA_Central,capaExcResiDir,19.372262680225,expExcFix,0,US D.O.E
+gas,US,NewYork,Canada,CA_Central,capaExcResiDir,2.3184418153750004,expExcFix,0,US D.O.E
+gas,US,NorthWest,Canada,CA_Central,capaExcResiDir,0.265470436875,expExcFix,0,US D.O.E
+gas,US,SouthWest,Mexico,NorOeste,capaExcResiDir,2.488342894975,expExcFix,0,US D.O.E
+gas,US,Texas,Mexico,NorEste,capaExcResiDir,14.09471039515,expExcFix,0,US D.O.E
+gas,US,Texas,Mexico,Norte,capaExcResiDir,12.126689556449998,expExcFix,0,US D.O.E
+gas,Canada,West,US,NorthWest,capaExcResiDir,37.572915832374996,expExcFix,0,US D.O.E

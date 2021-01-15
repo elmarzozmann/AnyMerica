@@ -1,0 +1,16 @@
+timestep_1,technology_1,technology_2,parameter_1,value_1,parameter_2,value_2,parameter_3,value_3,comment,unit
+2050,solar,openspace_1,costExpConv,390,costOprConv,6.3,lifeConv,25,Fraunhofer EE,DOLLAR
+,solar,openspace_2,costExpConv,390,costOprConv,6.3,lifeConv,25,Fraunhofer EE,DOLLAR
+,wind,onshore_1,costExpConv,1819,costOprConv,44.4,lifeConv,30,Fraunhofer EE,DOLLAR
+,wind,onshore_2,costExpConv,1819,costOprConv,44.4,lifeConv,30,Fraunhofer EE,DOLLAR
+,wind,offshore,costExpConv,3613,costOprConv,58.7,lifeConv,25,Fraunhofer EE,DOLLAR
+,electrolysis,,costExpConv,514,costOprConv,14.6,lifeConv,30,OSMOSE,DOLLAR
+,methanation,,costExpConv,884,costOprConv,18.0,lifeConv,30,OSMOSE,DOLLAR
+,ccgtHydrogen,,costExpConv,227,costOprConv,3.3,lifeConv,30,openEntrance,DOLLAR
+,hydro,newStream,costExpConv,7011,costOprConv,69.0,lifeConv,60,NREL ATB,DOLLAR
+,hydro,nonPoweredDam,costExpConv,5403,costOprConv,67.0,lifeConv,60,NREL ATB,DOLLAR
+,geothermal,hydrothermal,costExpConv,5995,costOprConv,123.0,lifeConv,30,NREL ATB,DOLLAR
+,geothermal,enhancedGeothermal_1,costExpConv,12262,costOprConv,181.0,lifeConv,30,NREL ATB,DOLLAR
+,geothermal,enhancedGeothermal_2,costExpConv,31331,costOprConv,500.0,lifeConv,30,NREL ATB,DOLLAR
+,biomassPlant,,costExpConv,1005,costOprConv,6.6,lifeConv,30,openEntrance,DOLLAR
+,gasPlant,,costExpConv,424,costOprConv,8.6,lifeConv,30,openEntrance,DOLLAR

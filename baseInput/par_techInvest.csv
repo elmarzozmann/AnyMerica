@@ -1,0 +1,6 @@
+timestep_1,region_1,region_2,technology_1,technology_2,parameter,value,comment
+2050,,,,,rateExpConv,0.04,
+2050,,,,,rateExpStIn,0.04,
+2050,,,,,rateExpStOut,0.04,
+2050,,,,,rateExpStSize,0.04,
+2050,,,,,rateExpExc,0.04,

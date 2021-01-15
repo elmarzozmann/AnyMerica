@@ -1,0 +1,4 @@
+timestep_1,technology_1,parameter_1,value_1,parameter_2,value_2,parameter_3,value_3,parameter_4,value_4,parameter_5,value_5,parameter_6,value_6,comment
+2050,battery,costExpStSize,201.843,costExpStIn,91.881,costOprStIn,1.353,lifeStIn,18,lifeStSize,18,stOutToStIn,1,OSMOSE
+,pumpedStorage,costExpStSize,86.1,costOprStSize,13.53,costOprStIn,0.000246,lifeStSize,50,,,,,Aghahosseini
+,gasStorage,costExpStSize,0.0615,costOprStSize,0.00123,lifeStSize,50,,,,,,,Aghahosseini

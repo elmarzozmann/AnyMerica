@@ -1,0 +1,8 @@
+timestep_1,technology_1,parameter,value,comment
+2050,pumpedStorage,effStIn,0.85,Aghahosseini
+,battery,effStIn,0.98,OSMOSE
+,gasStorage,effStIn,0.99,
+,pumpedStorage,effStOut,0.85,Aghahosseini
+,battery,effStOut,0.98,OSMOSE
+,gasStorage,effStOut,0.99,
+,battery,stDis,0.00008,OSMOSE

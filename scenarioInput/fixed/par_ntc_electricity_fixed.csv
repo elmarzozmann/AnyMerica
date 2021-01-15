@@ -1,0 +1,43 @@
+carrier_1,region_1,region_2,region_1,region_2,parameter_1,value_1,parameter_2,value_2,parameter_3,value_3,comment,length_km
+electricity,US,US_Central,US,MidWest,capaExcResi,20.50437947,lossExc,0.03525,expExcFix,0,ReEDS,705
+electricity,US,California,US,NorthWest,capaExcResi,11.75262153,lossExc,0.044,expExcFix,0,ReEDS,880
+electricity,US,MidWest,US,MidAtlantic,capaExcResi,10.19828304,lossExc,0.0463,expExcFix,0,ReEDS,926
+electricity,US,Tennessee,US,MidAtlantic,capaExcResi,8.475450436,lossExc,0.04325,expExcFix,0,ReEDS,865
+electricity,US,MidWest,US,Tennessee,capaExcResi,8.43194372,lossExc,0.0419,expExcFix,0,ReEDS,838
+electricity,Mexico,MEX_Central,Mexico,Oriental,capaExcResi,7.35,lossExc,0.02,expExcFix,0,SENER,398
+electricity,US,SouthEast,US,Tennessee,capaExcResi,7.000000001,lossExc,0.0164,expExcFix,0,ReEDS,328
+electricity,US,Florida,US,SouthEast,capaExcResi,5.945162179,lossExc,0.0255,expExcFix,0,ReEDS,510
+electricity,US,SouthWest,US,Texas,capaExcResi,5.90268,lossExc,0.0467,expExcFix,0,ReEDS,934
+electricity,US,MidWest,US,Texas,capaExcResi,5.742273532,lossExc,0.06645,expExcFix,0,ReEDS,1329
+electricity,US,NorthWest,US,SouthWest,capaExcResi,5.578356139,lossExc,0.0532,expExcFix,0,ReEDS,1064
+electricity,US,NorthWest,Canada,West,capaExcResi,5.515101351,lossExc,0.07165,expExcFix,0,US D.O.E,1433
+electricity,US,Carolinas,US,MidAtlantic,capaExcResi,5.251887142,lossExc,0.0236,expExcFix,0,ReEDS,472
+electricity,US,MidWest,Canada,CA_Central,capaExcResi,4.755700676,lossExc,0.0688,expExcFix,0,US D.O.E,1376
+electricity,Mexico,NorEste,Mexico,Occidental,capaExcResi,4.51,lossExc,0.027,expExcFix,0,SENER,548
+electricity,US,Texas,US,US_Central,capaExcResi,4.433302052,lossExc,0.05865,expExcFix,0,ReEDS,1173
+electricity,US,NewYork,Canada,East,capaExcResi,4.186,lossExc,0.0631,expExcFix,0,US D.O.E,1262
+electricity,US,NewEngland,Canada,East,capaExcResi,3.766860811,lossExc,0.0516,expExcFix,0,US D.O.E,1032
+electricity,US,NorthWest,US,US_Central,capaExcResi,3.6145499,lossExc,0.05575,expExcFix,0,ReEDS,1115
+electricity,US,Tennessee,US,Carolinas,capaExcResi,3.6,lossExc,0.0373,expExcFix,0,ReEDS,746
+electricity,US,SouthEast,US,Carolinas,capaExcResi,3.242,lossExc,0.0265,expExcFix,0,ReEDS,530
+electricity,US,NewYork,Canada,CA_Central,capaExcResi,3.2018,lossExc,0.09435,expExcFix,0,US D.O.E,1887
+electricity,US,California,US,SouthWest,capaExcResi,2.950407438,lossExc,0.05185,expExcFix,0,ReEDS,1037
+electricity,Mexico,MEX_Central,Mexico,Occidental,capaExcResi,2.95,lossExc,0.018,expExcFix,0,SENER,362
+electricity,US,California,Mexico,BajaCalifornia,capaExcResi,2.3835,lossExc,0.04325,expExcFix,0,US D.O.E,865
+electricity,US,NewYork,US,NewEngland,capaExcResi,2.034,lossExc,0.02105,expExcFix,0,ReEDS,421
+electricity,US,MidAtlantic,US,NewYork,capaExcResi,1.999999999,lossExc,0.0297,expExcFix,0,ReEDS,594
+electricity,Mexico,NorEste,Mexico,Oriental,capaExcResi,1.6,lossExc,0.052,expExcFix,0,SENER,1039
+electricity,Mexico,NorOeste,Mexico,Occidental,capaExcResi,1.38,lossExc,0.056,expExcFix,0,SENER,1122
+electricity,Mexico,Oriental,Mexico,Peninsular,capaExcResi,1.2,lossExc,0.038,expExcFix,0,SENER,765
+electricity,US,Texas,Mexico,NorEste,capaExcResi,1.19175,lossExc,0.03065,expExcFix,0,US D.O.E,613
+electricity,US,US_Central,Canada,CA_Central,capaExcResi,1.19175,lossExc,0.06425,expExcFix,0,US D.O.E,1285
+electricity,Mexico,Norte,Mexico,NorEste,capaExcResi,1,lossExc,0.027,expExcFix,0,SENER,544
+electricity,Mexico,NorOeste,Mexico,Norte,capaExcResi,1,lossExc,0.021,expExcFix,0,SENER,422
+electricity,Mexico,Norte,Mexico,Occidental,capaExcResi,0.3,lossExc,0.039,expExcFix,0,SENER,776
+electricity,Canada,CA_Central,Canada,East,capaExcResi,0,lossExc,0.087,expExcFix,0,Assumption,1743
+electricity,Canada,West,Canada,CA_Central,capaExcResi,0,lossExc,0.081,expExcFix,0,Assumption,1626
+electricity,Mexico,BajaCalifornia,Mexico,BajaCaliforniaSur,capaExcResi,0,lossExc,0.03,expExcFix,0,SENER,594
+electricity,Mexico,NorOeste,Mexico,BajaCalifornia,capaExcResi,0,lossExc,0.026,expExcFix,0,SENER,529
+electricity,Mexico,Norte,US,Texas,capaExcResi,0,lossExc,0.03875,expExcFix,0,US D.O.E,775
+electricity,Mexico,Norte,US,SouthWest,capaExcResi,0,lossExc,0.04,expExcFix,0,US D.O.E,800
+electricity,Mexico,NorOeste,US,SouthWest,capaExcResi,0,lossExc,0.03215,expExcFix,0,US D.O.E,643

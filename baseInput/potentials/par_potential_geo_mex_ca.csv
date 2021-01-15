@@ -1,0 +1,13 @@
+timestep_1,region_1,region_2,technology_1,parameter,value,comment
+all,Mexico,BajaCalifornia,geothermal,genUp,1650,Aghahosseini
+all,Mexico,BajaCaliforniaSur,geothermal,genUp,1650,Aghahosseini
+all,Mexico,MEX_Central,geothermal,genUp,2000,Aghahosseini
+all,Mexico,Norte,geothermal,genUp,4500,Aghahosseini
+all,Mexico,NorOeste,geothermal,genUp,6600,Aghahosseini
+all,Mexico,NorEste,geothermal,genUp,4500,Aghahosseini
+all,Mexico,Occidental,geothermal,genUp,54100,Aghahosseini
+all,Mexico,Oriental,geothermal,genUp,12000,Aghahosseini
+all,Mexico,Peninsular,geothermal,genUp,6000,Aghahosseini
+all,Canada,West,geothermal,genUp,116226,Aghahosseini
+all,Canada,CA_Central,geothermal,genUp,60467,Aghahosseini
+all,Canada,East,geothermal,genUp,3498,Aghahosseini

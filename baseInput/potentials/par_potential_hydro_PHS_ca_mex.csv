@@ -1,0 +1,13 @@
+timestep_1,region_1,region_2,technology_1,parameter,value,comment
+all,Mexico,BajaCalifornia,pumpedStorage,capaConvUp,1,Assumption
+all,Mexico,BajaCaliforniaSur,pumpedStorage,capaConvUp,1,Assumption
+all,Canada,CA_Central,pumpedStorage,capaConvUp,1,Assumption
+all,Canada,East,pumpedStorage,capaConvUp,1,Assumption
+all,Mexico,MEX_Central,pumpedStorage,capaConvUp,1,Assumption
+all,Mexico,NorEste,pumpedStorage,capaConvUp,1,Assumption
+all,Mexico,NorOeste,pumpedStorage,capaConvUp,1,Assumption
+all,Mexico,Norte,pumpedStorage,capaConvUp,1,Assumption
+all,Mexico,Occidental,pumpedStorage,capaConvUp,1,Assumption
+all,Mexico,Oriental,pumpedStorage,capaConvUp,1,Assumption
+all,Mexico,Peninsular,pumpedStorage,capaConvUp,1,Assumption
+all,Canada,West,pumpedStorage,capaConvUp,1,Assumption
